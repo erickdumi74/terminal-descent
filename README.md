@@ -13,7 +13,9 @@ See the [LICENSE](LICENSE) file for full terms.
 
 - **You may**: Play, share, modify, and distribute Terminal Descent for **noncommercial purposes**.
 - **You may not**: Sell, license, or monetize Terminal Descent, or any derivative works, without **my written permission**.
-- **Commercial licensing**: Contact me if you wish to use Terminal Descent in any commercial way.
+- **Commercial licensing**: Contact me if you wish to use Terminal Descent in any commercially
+
+© 2025 Erick Dumitrescu – Terminal Minds. All rights reserved except as granted under the license.
 
 ---
 
