@@ -47,4 +47,5 @@ git clone https://github.com/erickdumi74/terminal-descent.git
 cd terminal-descent
 
 # Run it
-python descent.py
+python terminal_descent.py
+
