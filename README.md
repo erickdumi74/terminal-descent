@@ -48,4 +48,24 @@ cd terminal-descent
 
 # Run it
 python terminal_descent.py
+``` 
+
+### Flight Controls
+- **Enter a number** — amount of thrust to apply this turn  
+- **`q`** — quit mid-descent  
+
+### Objective
+- Manage your fuel and thrust to counter gravity  
+- Touch down at a safe speed (**≤ 5 m/s**)  
+- Run out of altitude at high speed and you’ll crater  
+
+### Tips
+- Harder modes start you falling faster with less fuel  
+- Small thrust adjustments can save precious fuel  
+- Watch both speed and altitude — the ground comes quick  
+
+---
+
+**Core inputs:** thrust number · `q` to quit
+
 
