@@ -64,8 +64,4 @@ python terminal_descent.py
 - Small thrust adjustments can save precious fuel  
 - Watch both speed and altitude — the ground comes quick  
 
----
-
-**Core inputs:** thrust number · `q` to quit
-
 
